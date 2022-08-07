@@ -393,14 +393,11 @@ display: flex;
 flex-direction: row;
 width:100vw;
 color: ${color6};
-font-size: 18px;
-/* padding-left: 15px; */
 `
 
 
 export const FooterText = styled.div`
 width:80vw;
-color: ${color6};
 font-size: 18px;
 padding-left: 15px;
 `

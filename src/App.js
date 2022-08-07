@@ -201,7 +201,7 @@ function App() {
       <DivContactMe id="contactme">
         <DivContactMeTitle>Contact me</DivContactMeTitle>
 <DivContactMeText>
-I'm looking forward to a job where I can learn, develop new skills, and also contribute with everything I know :)
+I'm looking for a job where I can learn, develop new skills, and also contribute with everything I know :)
 </DivContactMeText>
 <DivContactMeText>
         You can contact me by e-mail: christiancmpbotto@gmail.com
