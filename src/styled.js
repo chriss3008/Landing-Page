@@ -355,8 +355,8 @@ export const DivButtons = styled.button`
 // Contact Me
 
 export const DivContactMe = styled.div`
-color:white;
-background-color: ${color1};
+color: ${color4};
+background-color: ${color6};
 display: flex;
 flex-direction: column;
 row-gap: 10px;
@@ -388,7 +388,7 @@ padding-bottom:10px;
 // Footer
 
 export const Footer = styled.div`
-background-color: ${color2};
+background-color: ${color1};
 display: flex;
 flex-direction: row;
 width:100vw;

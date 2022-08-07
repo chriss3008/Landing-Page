@@ -45,7 +45,7 @@ function App() {
         <H>
           <H1>Hello there :)</H1>
           <H1>My name is Christian Penna Botto</H1>
-          <H3> I am a Front-end developer!</H3>
+          <H3> and I am a Front-end developer!</H3>
         </H>
 
 
@@ -73,21 +73,21 @@ function App() {
             <DivAboutMeText>
               <p>
                 My name is Christian Penna Botto and I am Brazilian.
-                I went to college and got a bachelor degree in Civil Engineering.
+                I went to college and got a bachelor's degree in Civil Engineering.
                 Interested in the oil$gas industry, more particularly in pipelines,
-                I decided to pursue a Master Degree in Structural Integrity.
+                I decided to pursue a Master's Degree in Structural Integrity.
                 I had to study scientific programming, which led me to study
                 programming in general.
               </p>
 
               <p>
-                I decided to join a 6-month bootcamp.
+                I decided to join a 6-month Bootcamp.
                 It was an immersive and intensive Fullstack one
-                I found myself in the web programming area, but more specially, Front-end.
+                I found myself in the web programming area, but more especially, Front-end.
               </p>
 
               <p>
-                In my free time, I like to study, watch tv, play videogames, and travel.
+                In my free time, I like to study, watch tv, play video games, and travel.
                 Here's a pic of me during a backpack in The Philippines.
               </p>
 
@@ -106,13 +106,13 @@ function App() {
             <DivStacksTitle>FRONT-END</DivStacksTitle>
             <DivStacksText>
               <p>
-                I can build responsive web applications using HTML, CSS and JS using clean code principles.
+                I can build responsive web applications using HTML, CSS, and JS using clean code principles.
                 I also work with React.js and many important libraries, like Redux, Axios,
                 Styled-Components, React-Router-Dom, and Material UI.
               </p>
 
               <p>
-                I am a fast learner so I can learn even more!
+                I am a fast learner so I can adapt to new technologies very quickly!
               </p>
             </DivStacksText>
           </DivMySkillsStack>
@@ -120,7 +120,7 @@ function App() {
             <DivStacksTitle>BACK-END</DivStacksTitle>
             <DivStacksText>
               <p>
-                Even though I am a Front-end developer, I have a sizeable knowledge in Back-end,
+                Even though I am a Front-end developer, I have sizeable knowledge in Back-end,
                 which makes me be a Front-end developer more seamlessly.
               </p>
               I can build applications using NodeJS, Typescript, and MySQL.
@@ -140,7 +140,7 @@ function App() {
         <DivMyProjects1>
           <DivProjectTitle>Food Delivery</DivProjectTitle>
           <DivProjectMext>
-          This project is an elaborate Food Delivery site (mobile first). It has many real life functionalities, like signup/login, authentication and authorization, filters and search, etc. It uses an educational API.
+          This project is an elaborate Food Delivery site (mobile first). It has many real-life functionalities, like signup/login, authentication and authorization, filters, and search, etc. It uses an educational API.
           </DivProjectMext>
 
           <DivProjectButtons>
@@ -180,7 +180,7 @@ function App() {
         <DivMyProjects3>
         <DivProjectTitle>Github User Searcher</DivProjectTitle>
           <DivProjectMext>
-          This project is inspired by a legacy assignment for Chama. The home page is a search page where you can search for github users to get some info about them. There is also a history page with the previous terms searched.          </DivProjectMext>
+          This project is inspired by a legacy assignment for Chama. The home page is a search page where you can search for GitHub users to get some info about them. There is also a history page with the previous terms searched.          </DivProjectMext>
 
           <DivProjectButtons>
             <a target ="_blank" href="https://github-user-searcher.surge.sh/">
@@ -201,7 +201,7 @@ function App() {
       <DivContactMe id="contactme">
         <DivContactMeTitle>Contact me</DivContactMeTitle>
 <DivContactMeText>
-I'm looking forward a job wqhere I can lean, develop new skills and also contribute with everyting I know :)
+I'm looking forward to a job where I can learn, develop new skills, and also contribute with everything I know :)
 </DivContactMeText>
 <DivContactMeText>
         You can contact me by e-mail: christiancmpbotto@gmail.com
